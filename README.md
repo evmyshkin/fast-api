@@ -36,6 +36,12 @@ docker exec -it <container_id_or_name> /bin/bash
 exit
 ```
 
+Остановить контейнер
+
+```bash
+docker stop <container_id_or_name>
+```
+
 Удалить контейнер
 
 ```bash
